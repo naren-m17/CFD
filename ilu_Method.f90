@@ -1,11 +1,9 @@
 ! ------------------------------------------------------------------------------------------!
-! 					Name : Naren				Roll no.: 204103110							!
+! 					                Name : Naren											!
 !    						M. Tech in Computational Mechanics								!
 !    						Department of Mechanical Engineering							!
 !    								IIT- Guwahati											!
 !																							!
-!    Programming assignment#2																!
-!    Advanced Computational Fluid dynamics													!
 !																							!
 !    Solving Conduction equation (Laplace eq) using Incomplete LU   						!
 !																							!
