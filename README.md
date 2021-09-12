@@ -1,4 +1,13 @@
 # CFD
+# 2D Lid driven square cavity
+# Psi-Omega formulation(Central difference method)
+The solution for Re=400 is attached here. Results are compared with those of Ghia et al.
+![LidCavityOmega](https://user-images.githubusercontent.com/90545152/132978490-9cb3f09a-9d05-4575-8515-e5b45d218e0b.png)
+![LidCavityPhi](https://user-images.githubusercontent.com/90545152/132978493-b52d4ec1-843a-46d3-9639-b9d9bf3bf2bd.png)
+![image](https://user-images.githubusercontent.com/90545152/132978510-34e57cc0-0b95-4cfe-b44e-514b1ebaa716.png)
+![image](https://user-images.githubusercontent.com/90545152/132978516-d3fba57d-203e-41f9-9500-1a613f21d277.png)
+
+
 # Marker and Cell algorithm
 The solution for Re=400 is attached here. Results are compared with those of Ghia et al.
 
